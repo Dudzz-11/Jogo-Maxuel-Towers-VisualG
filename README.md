@@ -15,7 +15,7 @@ O jogo é inteiramente executado no terminal via VisualG. A interface é constru
 **Requisito:** VisualG 3.0 ou superior instalado.
 
 1. Abra o VisualG.
-2. Carregue o arquivo `TRABALHO MAXUEL TOWERS.ALG`.
+2. Carregue o arquivo `trabalhoMaxuellTowers.ALG`.
 3. Clique em executar ou pressione F9.
 
 ---

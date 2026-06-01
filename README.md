@@ -71,18 +71,6 @@ Reunir os quatro elementos desbloqueia o estado de grupo completo.
 
 ---
 
-## Dificuldade
-
-O jogo oferece tres niveis de dificuldade, que alteram o HP e o ataque dos chefes de cada torre.
-
-| Dificuldade | HP Fada | HP Trevas | HP Dragao | HP Sagrado |
-|-------------|---------|-----------|-----------|------------|
-| 1 (Facil)   | 130     | 150       | 240       | 190        |
-| 2 (Normal)  | 160     | 190       | 300       | 240        |
-| 3 (Dificil) | 210     | 250       | 390       | 310        |
-
----
-
 ## Chefe Final
 
 Apos concluir todas as torres e reunir os elementos, o jogador pode enfrentar Maxwell no desafio final. O encontro e acessado pelo menu principal ao terminar a ultima torre.
@@ -98,7 +86,6 @@ O algoritmo e organizado em procedimentos separados para cada area funcional.
 - `mostrar_Status_F/D/T/S` — exibe os atributos de cada elemento antes de iniciar
 - `cenario_fada/dragao/trevas/sagrado` — narrativa e escolhas de cada torre
 - `historia_conversar_*` — fluxo de diálogo com rolagem de dado
-- `luta_*` / `luta_*_duplas` / `luta_*_triplos` — combate simples, em dupla e em trio
 - `verificar_*` — atualiza as sinergias apos recrutar um elemento
 - `veri` — verifica o estado do grupo antes do desafio final
 
